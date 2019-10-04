@@ -1,0 +1,4 @@
+This is an implementation of the buggy DES used by QQ Music to encrypt and decrypt the qrc lyric file. It can be used as a drop-in replacement of the original QQMusicCommon.dll.
+
+Special thanks to:
+https://github.com/B-Con/crypto-algorithms
